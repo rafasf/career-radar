@@ -20,7 +20,7 @@ function len(object) {
 }
 
 var quad = 1;
-for(var quadrant in data) {
+for (var quadrant in data) {
     var i = 1;
     var start = radar_data.length;
 

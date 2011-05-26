@@ -2,12 +2,12 @@ title = 'Rafael Ferreira, May 2011';
 
 data = {
     'Languages': {
-        'Java': 3,
         'C#': 4,
-        'Objective-C': 1,
-        'C': 1,
-        'Ruby': 2,
+        'Java': 3,
         'Javascript': 3,
+        'Ruby': 2,
+        'C': 1,
+        'Objective-C': 1,
     },
 
     'Tools': {
