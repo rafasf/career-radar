@@ -1,4 +1,4 @@
-title = 'Rafael Ferreira, May 2011';
+title = 'Rafael Ferreira, August 2011';
 
 data = {
     'Languages': {
@@ -6,7 +6,7 @@ data = {
         'Java': 3,
         'Javascript': 3,
         'Ruby': 2,
-        'C': 1,
+        'Erlang': 2,
         'Objective-C': 1,
     },
 
@@ -30,7 +30,7 @@ data = {
         'BDD': 2,
         'REST':1,
         'OOD': 4,
-        'DevOps': 1,
+        'DevOps': 2,
         'Refactoring': 3,
     },
 
@@ -43,4 +43,3 @@ data = {
         '.Net': 3,
     }
 };
-
